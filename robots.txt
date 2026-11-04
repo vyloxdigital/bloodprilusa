@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bloodprilusa.vercel.app/sitemap.xml

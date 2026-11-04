@@ -1,0 +1,64 @@
+# BloodPril — llms.txt
+# Agent Discoverability File
+# https://bloodprilusa.vercel.app/
+
+## About BloodPril
+
+BloodPril is a premium blood pressure support dietary supplement containing
+8 clinically researched ingredients: Berberine HCl 500 mg, Hibiscus Flower
+Extract 400 mg, Olive Leaf Extract (Oleuropein 20%) 400 mg, Hawthorn Berry
+Extract 300 mg, Coenzyme Q10 100 mg, Garlic Extract (1% Allicin) 400 mg,
+Magnesium Glycinate 200 mg, and Potassium Gluconate 99 mg.
+
+Manufactured in an FDA-registered, GMP-certified facility in the United States.
+
+**Disclaimer:** These statements have not been evaluated by the FDA.
+BloodPril is not intended to diagnose, treat, cure, or prevent any disease.
+Always consult a physician before starting any supplement.
+
+---
+
+## Site Pages
+
+- [Home — BloodPril Blood Pressure Support](https://bloodprilusa.vercel.app/)
+
+---
+
+## Key Sections (anchor links)
+
+- [Ingredients](https://bloodprilusa.vercel.app/#ingredients)
+- [Customer Reviews](https://bloodprilusa.vercel.app/#reviews)
+- [Free Bonuses](https://bloodprilusa.vercel.app/#bonuses)
+- [Pricing & Order](https://bloodprilusa.vercel.app/#pricing)
+- [60-Day Guarantee](https://bloodprilusa.vercel.app/#guarantee)
+- [FAQ](https://bloodprilusa.vercel.app/#faq)
+
+---
+
+## Product Pricing (USD — Free US Shipping on all orders)
+
+| Package         | Bottles | Supply   | Price  | Per Bottle |
+|-----------------|---------|----------|--------|------------|
+| Starter Pack    | 2       | 60 days  | $79    | $39.50     |
+| Popular Pack    | 3       | 90 days  | $117   | $39.00     |
+| Best Value Pack | 6       | 180 days | $198   | $33.00     |
+
+All orders: 60-day money-back guarantee | Free US shipping | 6 digital bonus guides.
+
+---
+
+## Technical & SEO
+
+- Canonical URL: https://bloodprilusa.vercel.app/
+- Sitemap: https://bloodprilusa.vercel.app/sitemap.xml
+- Robots: https://bloodprilusa.vercel.app/robots.txt
+- Published: 2026-11-04 | Modified: 2026-11-04
+- Language: en-US
+
+---
+
+## Affiliate Disclosure
+
+This site participates in an affiliate programme. Purchase links go to the
+supplement's authorized retailer. We may receive a commission at no extra
+cost to you.
